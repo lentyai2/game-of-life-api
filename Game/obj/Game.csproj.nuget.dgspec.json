@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/admin/Documents/jobs/NetDocuments/GameOfLife/Game/Game.csproj": {}
+    "/Users/admin/Documents/jobs/NetDocuments/game-of-life-api/Game/Game.csproj": {}
   },
   "projects": {
-    "/Users/admin/Documents/jobs/NetDocuments/GameOfLife/Game/Game.csproj": {
+    "/Users/admin/Documents/jobs/NetDocuments/game-of-life-api/Game/Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/admin/Documents/jobs/NetDocuments/GameOfLife/Game/Game.csproj",
+        "projectUniqueName": "/Users/admin/Documents/jobs/NetDocuments/game-of-life-api/Game/Game.csproj",
         "projectName": "Game",
-        "projectPath": "/Users/admin/Documents/jobs/NetDocuments/GameOfLife/Game/Game.csproj",
+        "projectPath": "/Users/admin/Documents/jobs/NetDocuments/game-of-life-api/Game/Game.csproj",
         "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Users/admin/Documents/jobs/NetDocuments/GameOfLife/Game/obj/",
+        "outputPath": "/Users/admin/Documents/jobs/NetDocuments/game-of-life-api/Game/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/admin/.nuget/NuGet/NuGet.Config"
